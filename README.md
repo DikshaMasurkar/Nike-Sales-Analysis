@@ -58,7 +58,7 @@ Key Insights
 Dashboard Screenshot
 
 Main Dashboard
-[Dashboard](dashboard1.png)
+[Dashboard] dashboard.png
 
 Project Structure
 
