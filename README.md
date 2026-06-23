@@ -55,10 +55,6 @@ Key Insights
 - Product sales trends show seasonal variations.
 - Men's and Women's product categories contribute major sales volume.
 
-Dashboard Screenshot
-
-Main Dashboard
-[Dashboard] dashboard.png
 
 Project Structure
 
